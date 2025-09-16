@@ -2,7 +2,7 @@
 
 A Inteligência Artificial está em todo lugar: dos sistemas de recomendação da Netflix até os assistentes virtuais no celular. Mas, entre a pesquisa e a prática, existe uma figura essencial: o **Engenheiro de IA**.
 
----
+
 
 ## O papel do Engenheiro de IA
 Enquanto cientistas de dados focam em pesquisa e modelos, e engenheiros de software em aplicações, o Engenheiro de IA é quem garante que os modelos **funcionem no mundo real**.  
